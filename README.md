@@ -1,2 +1,3 @@
 # hello_world
-Just for demo
+HOW R U?
+I am trainee at LN.
